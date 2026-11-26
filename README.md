@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.postimg.cc/c4SBGcqc/Screenshot-2026-11-26-2.png" alt="RedZone Results" width="90%">
+  <img src="https://i.postimg.cc/j2VmbJKc/Screenshot-2026-11-26-3.png" alt="RedZone Results" width="90%">
   <br>
   <i>Real-time Results & Reporting</i>
 </p>
